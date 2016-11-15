@@ -1,0 +1,15 @@
+# pack-refs with: peeled 
+da5016687ec61a52e064a68bc0bb80e0bf5d3c73 refs/remotes/origin/2.0
+811cbfbbec51e0ea3e658733af99817b8e9a9223 refs/remotes/origin/3.0.1
+1f2bab32a829ebafe1626b389fe0e3d0ff8e6412 refs/remotes/origin/4.0
+eb7539d128d974d2159569690811c6b101860af1 refs/remotes/origin/5.0
+47543474f17e7489d159c4451dc16b3757ed0c36 refs/remotes/origin/SocketServer
+740854aa41dd8a6d702655fd7c773fb75b88fa32 refs/remotes/origin/gevent
+3e36fdebee4732236d8e3d0fa7701a90bf146284 refs/remotes/origin/master
+ce285aa35116dee26dae5121000e354bf29ccaef refs/remotes/origin/micro
+e5c263ce13981cabc66fb630c5918431870cf671 refs/remotes/origin/python3
+16a0cdc50cb0ee307d45fed4f9c309e068bf4df0 refs/remotes/origin/testHandlerClass
+3e0bca229644520dee9faa62302f00cc6f276509 refs/remotes/origin/twisted
+76fc2a7354d5de26c4411da5cc51e31d9985ef8e refs/tags/1.0
+da5016687ec61a52e064a68bc0bb80e0bf5d3c73 refs/tags/2.0
+f66518fae9c63299e9a9e2636654d16149e21cf3 refs/tags/3.0
